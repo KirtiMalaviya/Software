@@ -11,6 +11,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * each student can: say their name (getName)
  * push operation
  * changing 
+ featch and 
  * @author dancye May 7, 2018
  */
 public class Student 
